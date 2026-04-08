@@ -1,0 +1,612 @@
+{
+  "business": {
+    "name": "Professional General Works",
+    "phone": "+17867579959",
+    "category": "home remodeler",
+    "city": "Jacksonville",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Remodel Your Jacksonville Home",
+      "heroSubline": "Expert craftsmanship, enduring quality. Transforming Jacksonville homes with precision and care.",
+      "aboutTitle": "Crafting Jacksonville's Dream Homes",
+      "aboutText": [
+        "Professional General Works started with a simple goal: to provide unmatched remodeling services to Jacksonville homeowners. We saw a need for reliable, detail-oriented contractors who understand the unique challenges of Florida homes, from humidity to hurricane preparedness.",
+        "Our approach is built on clear communication, meticulous planning, and unwavering commitment to quality. We value integrity, transparency, and collaboration, ensuring every project reflects your vision and our expertise.",
+        "We're proud to be part of the Jacksonville community. We source materials locally whenever possible, support local businesses, and strive to contribute to the beauty and resilience of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Jacksonville's climate, architecture, and building codes."
+        },
+        {
+          "title": "Detailed Planning",
+          "description": "Meticulous project management from initial consultation to final walkthrough."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled tradespeople delivering superior workmanship and lasting results."
+        },
+        {
+          "title": "Transparent Communication",
+          "description": "Open and honest updates throughout the entire remodeling process."
+        }
+      ],
+      "ctaHeadline": "Start Your Remodeling Project Today",
+      "ctaSubline": "Get a free consultation and discover the possibilities for your Jacksonville home."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Jacksonville home.",
+        "description": "Jacksonville kitchens face unique challenges, from humidity warping cabinets to outdated layouts hindering modern living. We specialize in kitchen remodels that address these concerns while creating a functional and beautiful space. We handle everything from cabinet replacement and countertop installation to appliance upgrades and custom storage solutions. Our team will work with you to design a kitchen that reflects your style and meets your needs, whether you're dreaming of a sleek, modern space or a cozy, traditional gathering place. We use moisture-resistant materials and proven techniques to ensure your kitchen withstands the Florida climate for years to come. Let us create a kitchen you'll love to cook in and share with your family for years to come. We navigate Jacksonville's permitting process to create a seamless remodel.",
+        "process": [
+          "Step 1: Initial Consultation and Design Planning",
+          "Step 2: Material Selection and Budget Review",
+          "Step 3: Demolition and Construction",
+          "Step 4: Finishing Touches and Final Inspection"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetic Appeal",
+          "Customized to Your Lifestyle"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical kitchen remodel take?",
+            "answer": "The timeline varies depending on the scope of the project, but most kitchen remodels take between 6-12 weeks."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "While it's not always necessary, many homeowners find it more comfortable to relocate during the demolition and construction phases."
+          },
+          {
+            "question": "What kind of warranty do you offer on your work?",
+            "answer": "We offer a comprehensive warranty on all our labor and materials, ensuring your peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like retreat in your Jacksonville home with our expert bathroom remodeling services.",
+        "description": "Jacksonville bathrooms often suffer from mold, mildew, and water damage due to the humid climate. We provide comprehensive bathroom remodeling services that address these issues while creating a relaxing and functional space. We handle everything from tub-to-shower conversions and vanity installations to tile work and plumbing upgrades. Our team uses waterproof materials and proper ventilation techniques to prevent moisture problems and ensure your bathroom lasts for years to come. Whether you're looking for a luxurious master bath or a practical guest bath, we'll work with you to create a space that meets your needs and reflects your style. We understand the unique challenges of remodeling older Jacksonville homes and ensure all work meets current building codes.",
+        "process": [
+          "Step 1: Design Consultation and Space Planning",
+          "Step 2: Fixture and Material Selection",
+          "Step 3: Demolition and Plumbing/Electrical Work",
+          "Step 4: Installation and Finishing"
+        ],
+        "benefits": [
+          "Improved Home Comfort",
+          "Increased Functionality",
+          "Water Damage Prevention",
+          "Modernized Design"
+        ],
+        "faq": [
+          {
+            "question": "Can you help me choose the right fixtures for my bathroom?",
+            "answer": "Absolutely! We have extensive experience with different fixtures and can guide you towards options that fit your style, budget, and needs."
+          },
+          {
+            "question": "Do you handle plumbing and electrical work?",
+            "answer": "Yes, we have licensed plumbers and electricians on our team to ensure all work is done safely and to code."
+          },
+          {
+            "question": "How do you prevent mold and mildew in bathrooms?",
+            "answer": "We use moisture-resistant materials, proper ventilation techniques, and sealant applications to prevent mold and mildew growth."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-remodeling",
+        "name": "Whole House Remodeling",
+        "shortDescription": "Transform your entire Jacksonville home with our comprehensive remodeling services.",
+        "description": "Is your Jacksonville home stuck in the past? Do you dream of a more modern, functional, and beautiful living space? Our whole-house remodeling services can bring your vision to life. We handle everything from structural changes and room additions to interior design and exterior renovations. Our team will work with you to create a cohesive design plan that reflects your style and meets your needs. We prioritize efficient project management, clear communication, and quality craftsmanship to ensure a seamless and stress-free remodeling experience. We are familiar with the architectural styles prevalent in Jacksonville neighborhoods like Riverside and Avondale, ensuring any changes are sympathetic to the existing character of your home.",
+        "process": [
+          "Step 1: Comprehensive Consultation and Design Development",
+          "Step 2: Budgeting and Timeline Creation",
+          "Step 3: Permitting and Pre-Construction Planning",
+          "Step 4: Full-Scale Remodeling and Project Management"
+        ],
+        "benefits": [
+          "Increased Property Value",
+          "Improved Energy Efficiency",
+          "Enhanced Living Space",
+          "Customized to Your Preferences"
+        ],
+        "faq": [
+          {
+            "question": "How long does a whole-house remodel typically take?",
+            "answer": "The timeline depends on the size and complexity of the project, but most whole-house remodels take between 6-18 months."
+          },
+          {
+            "question": "What is the first step in the remodeling process?",
+            "answer": "The first step is a comprehensive consultation to discuss your goals, budget, and design preferences."
+          },
+          {
+            "question": "How do you manage the disruption to my daily life during the remodel?",
+            "answer": "We prioritize minimizing disruption by carefully planning each phase of the project and maintaining a clean and organized work site."
+          }
+        ]
+      },
+      {
+        "slug": "room-additions",
+        "name": "Room Additions",
+        "shortDescription": "Expand your living space with our expert room addition services in Jacksonville.",
+        "description": "Need more space in your Jacksonville home? Whether you're adding a new bedroom, expanding your kitchen, or creating a home office, we can help. Our room addition services are tailored to meet your specific needs and budget. We handle everything from design and permitting to construction and finishing. We understand the unique challenges of building additions in Jacksonville, including soil conditions, zoning regulations, and hurricane preparedness. Our team will ensure your addition seamlessly integrates with your existing home and meets all applicable building codes. We have experience working with a variety of Jacksonville home styles, from historic bungalows to modern ranch homes.",
+        "process": [
+          "Step 1: Site Assessment and Design Planning",
+          "Step 2: Permitting and Engineering",
+          "Step 3: Foundation and Framing",
+          "Step 4: Interior and Exterior Finishing"
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Enhanced Home Value",
+          "Improved Functionality",
+          "Customized Design"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for a room addition?",
+            "answer": "Yes, a building permit is required for all room additions in Jacksonville. We will handle the permitting process for you."
+          },
+          {
+            "question": "How long does it take to build a room addition?",
+            "answer": "The timeline depends on the size and complexity of the addition, but most room additions take between 3-6 months."
+          },
+          {
+            "question": "How do you ensure the addition matches my existing home?",
+            "answer": "We carefully match the exterior materials, roofing, and architectural details to ensure a seamless integration."
+          }
+        ]
+      },
+      {
+        "slug": "deck-and-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Extend your living space outdoors with a custom deck or patio.",
+        "description": "Enjoy the Jacksonville sunshine with a custom-designed deck or patio. We specialize in building durable and beautiful outdoor living spaces that withstand the Florida climate. We offer a variety of materials, including pressure-treated wood, composite decking, and pavers. Our team will work with you to design a deck or patio that meets your needs and complements your home's architecture. We take into account factors like sun exposure, drainage, and privacy when designing your outdoor space. We understand the importance of proper construction techniques to prevent rot, insect damage, and water damage. We obtain all necessary permits and ensure compliance with local building codes.",
+        "process": [
+          "Step 1: Design Consultation and Site Assessment",
+          "Step 2: Material Selection and Budgeting",
+          "Step 3: Permitting and Construction",
+          "Step 4: Finishing and Landscaping"
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Enhanced Home Value",
+          "Improved Curb Appeal",
+          "Perfect for Entertaining"
+        ],
+        "faq": [
+          {
+            "question": "What type of decking material is best for Jacksonville's climate?",
+            "answer": "Composite decking is a great option for Jacksonville because it's resistant to rot, insects, and fading. Pressure-treated wood is also a good choice, but it requires more maintenance."
+          },
+          {
+            "question": "Do I need a permit for a deck or patio?",
+            "answer": "Yes, a building permit is typically required for decks and patios that are elevated or attached to the house. We will handle the permitting process for you."
+          },
+          {
+            "question": "How long does it take to build a deck or patio?",
+            "answer": "The timeline depends on the size and complexity of the project, but most decks and patios take between 2-4 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-installation",
+        "name": "Flooring Installation",
+        "shortDescription": "Upgrade your Jacksonville home with new, beautiful flooring.",
+        "description": "From hardwood to tile, we offer professional flooring installation services to enhance the look and feel of your Jacksonville home. We understand the importance of choosing the right flooring material for each room in your home, taking into account factors like moisture, traffic, and style. We provide expert installation services for a variety of flooring types, including hardwood, laminate, tile, vinyl, and carpet. Our team pays close attention to detail to ensure a flawless and long-lasting installation. We prepare the subfloor properly to prevent problems like squeaking and unevenness. We are experienced in installing flooring in Jacksonville's diverse range of homes, from historic homes with unique subfloor challenges to new construction.",
+        "process": [
+          "Step 1: Consultation and Material Selection",
+          "Step 2: Site Preparation and Subfloor Evaluation",
+          "Step 3: Flooring Installation",
+          "Step 4: Finishing and Cleanup"
+        ],
+        "benefits": [
+          "Improved Home Aesthetics",
+          "Increased Home Value",
+          "Enhanced Comfort",
+          "Durable and Long-Lasting"
+        ],
+        "faq": [
+          {
+            "question": "What type of flooring is best for high-moisture areas like bathrooms and kitchens?",
+            "answer": "Tile and vinyl are excellent choices for high-moisture areas because they are waterproof and easy to clean."
+          },
+          {
+            "question": "How long does it take to install new flooring?",
+            "answer": "The timeline depends on the size of the area and the type of flooring being installed, but most flooring installations take between 1-5 days."
+          },
+          {
+            "question": "Do you remove the old flooring?",
+            "answer": "Yes, we will remove and dispose of your old flooring as part of our installation service."
+          }
+        ]
+      },
+      {
+        "slug": "painting-services",
+        "name": "Painting Services",
+        "shortDescription": "Refresh and revitalize your Jacksonville home with our professional painting services.",
+        "description": "A fresh coat of paint can transform the look and feel of your Jacksonville home. We offer professional interior and exterior painting services that enhance your home's beauty and protect it from the elements. We use high-quality paints and proven techniques to ensure a long-lasting and beautiful finish. Our team prepares the surfaces properly by cleaning, sanding, and priming to ensure optimal adhesion. We pay close attention to detail to achieve crisp lines and a smooth, even finish. We understand the challenges of painting in Jacksonville's humid climate and use paints that are resistant to mold, mildew, and fading. We can help you choose the perfect colors to complement your home's style and your personal taste.",
+        "process": [
+          "Step 1: Consultation and Color Selection",
+          "Step 2: Surface Preparation",
+          "Step 3: Painting",
+          "Step 4: Cleanup and Inspection"
+        ],
+        "benefits": [
+          "Improved Home Aesthetics",
+          "Increased Home Value",
+          "Protection from the Elements",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to paint a room?",
+            "answer": "The timeline depends on the size of the room and the complexity of the project, but most rooms can be painted in 1-2 days."
+          },
+          {
+            "question": "Do you offer color consultations?",
+            "answer": "Yes, we can help you choose the perfect colors for your home."
+          },
+          {
+            "question": "What type of paint do you use?",
+            "answer": "We use high-quality paints from trusted brands that are designed to withstand Jacksonville's climate."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Augustine",
+        "slug": "st-augustine-fl",
+        "state": "FL",
+        "content": "Professional General Works is proud to offer comprehensive home remodeling services to the historic city of St. Augustine, Florida. We understand the unique architectural character of this area, with its beautiful Spanish Colonial influences and historic landmarks. Whether you're looking to update your kitchen, renovate a bathroom, or add a new addition while preserving the historical integrity of your home, our team has the expertise to handle any project. We have experience navigating the specific permitting and design requirements often found in historic districts. \n\nWe are also well-versed in addressing the challenges presented by the hot, humid climate of St. Augustine. From selecting durable, weather-resistant materials to ensuring proper ventilation and insulation, we'll help you create a comfortable and energy-efficient living space that can withstand the elements. We're committed to providing exceptional craftsmanship and personalized service to homeowners throughout St. Augustine.",
+        "localContext": "St. Augustine, known as the nation's oldest city, boasts stunning Spanish Colonial architecture and a rich history.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Palm Coast",
+          "Fruit Cove"
+        ]
+      },
+      {
+        "city": "Orange Park",
+        "slug": "orange-park-fl",
+        "state": "FL",
+        "content": "Professional General Works provides expert home remodeling services to the residents of Orange Park, Florida. Known for its established neighborhoods featuring many 1970s and 80s suburban ranch-style homes, Orange Park offers a unique blend of community and convenience. We specialize in updating and modernizing these classic homes, transforming them into contemporary living spaces that meet the needs of today's families. From kitchen and bathroom remodels to whole-house renovations, we can help you create the home of your dreams.\n\nWe understand the specific challenges and opportunities presented by the architecture and climate of Orange Park. We can help you select the right materials and design elements to enhance your home's curb appeal and functionality while addressing the demands of the hot, humid Florida summers. Our team is dedicated to providing exceptional service and craftsmanship to every client in Orange Park.",
+        "localContext": "Orange Park features many suburban ranch homes built in the 1970s and 80s, offering a variety of remodeling opportunities.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Middleburg",
+          "Bellair-Meadowbrook Terrace"
+        ]
+      },
+      {
+        "city": "Jacksonville",
+        "slug": "jacksonville-fl",
+        "state": "FL",
+        "content": "Professional General Works is proud to serve the vibrant city of Jacksonville, Florida, offering a comprehensive range of home remodeling services. As the largest city in Florida by land area, Jacksonville presents a diverse array of architectural styles and neighborhood characteristics. From historic homes in Riverside and Avondale to modern residences in the Beaches area, we have the expertise to handle any remodeling project, big or small. We're committed to providing exceptional craftsmanship and personalized service to homeowners throughout Jacksonville.\n\nWe understand the unique challenges and opportunities presented by the Jacksonville climate, including hot, humid summers and occasional hurricanes. Our team can help you select durable, weather-resistant materials and design features that will protect your home and enhance its energy efficiency. Whether you're looking to update your kitchen, renovate a bathroom, or add a new addition, we're here to help you create the home of your dreams.",
+        "localContext": "Jacksonville is a large, diverse city with a wide range of architectural styles and neighborhoods.",
+        "nearbyAreas": [
+          "Orange Park",
+          "St. Augustine",
+          "Fernandina Beach"
+        ]
+      },
+      {
+        "city": "Fernandina Beach",
+        "slug": "fernandina-beach-fl",
+        "state": "FL",
+        "content": "Professional General Works extends its exceptional home remodeling services to Fernandina Beach, Florida. Known for its beautiful beaches, historic downtown, and charming Victorian architecture, Fernandina Beach offers a unique blend of coastal living and small-town charm. We specialize in preserving the character of older homes while incorporating modern amenities and design features. Our team is experienced in navigating the specific permitting requirements and design guidelines often found in historic districts. \n\nWe are also well-versed in addressing the challenges presented by the coastal environment of Fernandina Beach. From selecting saltwater-resistant materials to ensuring proper drainage and ventilation, we'll help you create a comfortable and durable home that can withstand the elements. We are committed to providing exceptional craftsmanship and personalized service to homeowners throughout Fernandina Beach.",
+        "localContext": "Fernandina Beach features beautiful beaches, a historic downtown, and charming Victorian architecture.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Yulee",
+          "Amelia City"
+        ]
+      },
+      {
+        "city": "Ponte Vedra Beach",
+        "slug": "ponte-vedra-beach-fl",
+        "state": "FL",
+        "content": "Professional General Works is pleased to offer top-quality home remodeling services in Ponte Vedra Beach, Florida. Known for its upscale communities, world-class golf courses, and stunning oceanfront properties, Ponte Vedra Beach demands a high level of craftsmanship and attention to detail. We specialize in luxury home renovations that enhance the beauty, functionality, and value of your property. From custom kitchen designs to exquisite bathroom remodels, we can bring your vision to life.\n\nWe understand the unique needs and preferences of homeowners in Ponte Vedra Beach. Our team is committed to providing personalized service and exceptional results that exceed your expectations. We use only the finest materials and employ the most skilled craftsmen to ensure that your remodeling project is completed to the highest standards.",
+        "localContext": "Ponte Vedra Beach is known for its upscale communities, golf courses, and oceanfront properties.",
+        "nearbyAreas": [
+          "Jacksonville Beach",
+          "Nocatee",
+          "Sawgrass"
+        ]
+      },
+      {
+        "city": "Neptune Beach",
+        "slug": "neptune-beach-fl",
+        "state": "FL",
+        "content": "Professional General Works proudly serves the community of Neptune Beach, Florida, with expert home remodeling services. As one of the Jacksonville Beaches communities, Neptune Beach offers a relaxed, coastal lifestyle with a strong sense of community. Whether you're looking to update a beach cottage or renovate a family home, we have the skills and experience to handle any project. We understand the unique needs of homeowners in Neptune Beach and are committed to providing personalized service and exceptional results.\n\nWe are also experienced in addressing the challenges presented by the coastal environment, including saltwater corrosion and storm damage. Our team can help you select durable, weather-resistant materials and design features that will protect your home and enhance its value. We are committed to providing exceptional craftsmanship and personalized service to homeowners throughout Neptune Beach.",
+        "localContext": "Neptune Beach is a coastal community known for its relaxed atmosphere and strong sense of community.",
+        "nearbyAreas": [
+          "Atlantic Beach",
+          "Jacksonville Beach",
+          "Mayport"
+        ]
+      },
+      {
+        "city": "Atlantic Beach",
+        "slug": "atlantic-beach-fl",
+        "state": "FL",
+        "content": "Professional General Works provides superior home remodeling services to the residents of Atlantic Beach, Florida. As a charming coastal community known for its beautiful beaches and laid-back atmosphere, Atlantic Beach offers a unique blend of residential living and vacation vibes. We specialize in creating functional and stylish living spaces that reflect the coastal lifestyle. From kitchen and bathroom remodels to whole-house renovations, we can help you transform your home into the perfect beach retreat.\n\nWe understand the specific challenges and opportunities presented by the architecture and climate of Atlantic Beach. We can help you select the right materials and design elements to enhance your home's curb appeal and functionality while addressing the demands of the coastal environment. Our team is dedicated to providing exceptional service and craftsmanship to every client in Atlantic Beach.",
+        "localContext": "Atlantic Beach is a charming coastal community known for its beautiful beaches and laid-back atmosphere.",
+        "nearbyAreas": [
+          "Neptune Beach",
+          "Jacksonville Beach",
+          "Mayport"
+        ]
+      },
+      {
+        "city": "Jacksonville Beach",
+        "slug": "jacksonville-beach-fl",
+        "state": "FL",
+        "content": "Professional General Works is delighted to offer its remodeling services to Jacksonville Beach, Florida. As a popular destination with miles of sandy shoreline, Jacksonville Beach offers a vibrant coastal lifestyle. We cater to all remodeling needs, whether you are looking to update an older home, or create a modern beachside oasis. Our team offers expertise in all aspects of remodeling, including navigating local building codes and securing permits.\n\nWe are well-versed in addressing the problems presented by the salty ocean air and the occasional storm. We carefully select materials that can withstand the elements, and offer solutions for energy efficiency, so that you can enjoy your beachside home year-round. We are committed to providing exceptional craftsmanship and personalized service to homeowners throughout Jacksonville Beach.",
+        "localContext": "Jacksonville Beach offers a vibrant coastal lifestyle with miles of sandy shoreline.",
+        "nearbyAreas": [
+          "Neptune Beach",
+          "Atlantic Beach",
+          "Ponte Vedra Beach"
+        ]
+      },
+      {
+        "city": "Middleburg",
+        "slug": "middleburg-fl",
+        "state": "FL",
+        "content": "Professional General Works is proud to extend its home remodeling services to Middleburg, Florida. This town, located in Clay County, offers a more rural setting with a mix of older and newer homes. We understand the diverse needs of homeowners in Middleburg and are equipped to handle a wide range of remodeling projects, from updating kitchens and bathrooms to adding additions and renovating entire homes. We pride ourselves on providing personalized service and exceptional craftsmanship.\n\nWe are also mindful of the local climate and can help you select materials and design features that will enhance your home's energy efficiency and durability. Whether you're looking to create a more comfortable living space or increase the value of your property, we're here to help you achieve your goals.",
+        "localContext": "Middleburg offers a rural setting with a mix of older and newer homes in Clay County.",
+        "nearbyAreas": [
+          "Orange Park",
+          "Green Cove Springs",
+          "Lake Asbury"
+        ]
+      },
+      {
+        "city": "Green Cove Springs",
+        "slug": "green-cove-springs-fl",
+        "state": "FL",
+        "content": "Professional General Works is pleased to provide its home remodeling expertise to Green Cove Springs, Florida. Known for its natural springs, historic downtown area, and waterfront views along the St. Johns River, Green Cove Springs offers a unique blend of history and natural beauty. We are experienced in working with both older homes and newer constructions, and we are dedicated to providing exceptional service and craftsmanship to every client.\n\nWe understand the importance of preserving the character of older homes while incorporating modern amenities and design features. We can help you update your kitchen, renovate your bathroom, or add a new addition while respecting the architectural integrity of your home. We are also experienced in addressing the challenges presented by the Florida climate, including humidity and potential storm damage.",
+        "localContext": "Green Cove Springs is known for its natural springs, historic downtown, and waterfront views along the St. Johns River.",
+        "nearbyAreas": [
+          "Middleburg",
+          "Orange Park",
+          "Penney Farms"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "Professional General Works completely transformed my outdated kitchen! They listened to my ideas, offered helpful suggestions, and delivered a stunning result. The new cabinets and countertops are exactly what I wanted. The team was professional, respectful, and always on time. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Bathroom Remodeling",
+        "text": "We hired Professional General Works to remodel our master bathroom. The initial design process was smooth, and the team was very responsive to our needs. There were a couple of minor delays due to material availability, but they communicated clearly and kept us informed. The finished bathroom looks fantastic!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Whole House Remodeling",
+        "text": "Undertaking a whole-house remodel seemed daunting, but Professional General Works made the process manageable and stress-free. They helped us create a beautiful and functional living space that perfectly suits our family's needs. Their attention to detail and commitment to quality are truly impressive.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Deck & Patio Construction",
+        "text": "Professional General Works built an amazing deck for our backyard. It's the perfect place to relax and entertain. They used high-quality materials, and the workmanship is excellent. We're so happy with the result!",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Flooring Installation",
+        "text": "We recently had new hardwood floors installed throughout our home by Professional General Works. The installation process was quick and efficient, and the floors look beautiful. There were a few minor scratches on the baseboards, but they were promptly repaired. Overall, we're very satisfied with the service.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Painting Services",
+        "text": "Professional General Works did an excellent job painting the exterior of our house. They were meticulous in their preparation and applied the paint evenly and professionally. The house looks brand new! I'd highly recommend them.",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Jacksonville Remodeling Contractor",
+        "description": "Professional General Works: Jacksonville's leading home remodeling experts. Kitchens, bathrooms, whole house renovations & more. Free quotes!"
+      },
+      "about": {
+        "title": "About Professional General Works",
+        "description": "Learn about Professional General Works, Jacksonville's trusted remodeling contractor. Quality, reliability, and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Jacksonville Remodeling Services",
+        "description": "Explore our comprehensive remodeling services in Jacksonville: kitchens, bathrooms, additions, decks, flooring, painting & more. Get a free estimate!"
+      },
+      "contact": {
+        "title": "Contact Professional General Works",
+        "description": "Contact Professional General Works for your Jacksonville remodeling project. Get a free consultation and expert advice. Call +17867579959"
+      },
+      "reviews": {
+        "title": "Professional General Works Reviews",
+        "description": "Read reviews from satisfied Professional General Works customers in Jacksonville. See why we're the top choice for home remodeling."
+      },
+      "service-areas": {
+        "title": "Service Areas",
+        "description": "Professional General Works serves Jacksonville, St. Augustine, and Orange Park, FL. Expert remodeling services in your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "whole-house-remodeling": "/images/service-whole-house-remodeling.webp",
+      "room-additions": "/images/service-room-additions.webp",
+      "deck-and-patio-construction": "/images/service-deck-and-patio-construction.webp",
+      "flooring-installation": "/images/service-flooring-installation.webp",
+      "painting-services": "/images/service-painting-services.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-remodeling": {
+        "src": "/images/service-whole-house-remodeling.webp",
+        "srcset": "/images/service-whole-house-remodeling-400w.webp 400w, /images/service-whole-house-remodeling-800w.webp 800w, /images/service-whole-house-remodeling-1200w.webp 1200w, /images/service-whole-house-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "room-additions": {
+        "src": "/images/service-room-additions.webp",
+        "srcset": "/images/service-room-additions-400w.webp 400w, /images/service-room-additions-800w.webp 800w, /images/service-room-additions-1200w.webp 1200w, /images/service-room-additions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-and-patio-construction": {
+        "src": "/images/service-deck-and-patio-construction.webp",
+        "srcset": "/images/service-deck-and-patio-construction-400w.webp 400w, /images/service-deck-and-patio-construction-800w.webp 800w, /images/service-deck-and-patio-construction-1200w.webp 1200w, /images/service-deck-and-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-installation": {
+        "src": "/images/service-flooring-installation.webp",
+        "srcset": "/images/service-flooring-installation-400w.webp 400w, /images/service-flooring-installation-800w.webp 800w, /images/service-flooring-installation-1200w.webp 1200w, /images/service-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "painting-services": {
+        "src": "/images/service-painting-services.webp",
+        "srcset": "/images/service-painting-services-400w.webp 400w, /images/service-painting-services-800w.webp 800w, /images/service-painting-services-1200w.webp 1200w, /images/service-painting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
